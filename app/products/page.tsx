@@ -1,5 +1,5 @@
 "use client"
-import { useEffect, useMemo, useState } from 'react'
+import { Suspense, useEffect, useMemo, useState } from 'react'
 import { useSearchParams, useRouter } from 'next/navigation'
 import ProductCard from '@/components/ProductCard'
 import { CATEGORIES, products } from '@/data/products'
@@ -7,6 +7,14 @@ import { CATEGORIES, products } from '@/data/products'
 const ALL = 'All'
 
 export default function ProductsPage() {
+  return (
+    <Suspense>
+      <ProductsPageContent />
+    </Suspense>
+  )
+}
+
+function ProductsPageContent() {
   const [active, setActive] = useState<string>(ALL)
   const search = useSearchParams()
   const router = useRouter()
