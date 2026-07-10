@@ -36,7 +36,7 @@ export default function AboutPage() {
           <h2>What We Provide</h2>
           <p>
             From compressors and refrigerants to appliance spares, KoolTech
-            brings essential cooling and repair components under one roof.
+            brings essential cooling components under one roof.
           </p>
         </div>
 
@@ -49,44 +49,44 @@ export default function AboutPage() {
         </div>
       </section>
 
-     <section className="section trust-section">
-  <div className="trust-header">
+      <section className="section trust-section">
+        <div className="trust-header">
 
-<div className="section-divider"></div>
+          <div className="section-divider"></div>
 
-    <h2>
-      Everything You Need <span>Under One Roof</span>
-    </h2>
+          <h2>
+            Everything You Need <span>Under One Roof</span>
+          </h2>
 
-    <p>
-      We bring together trusted brands, quality components and dependable
-      customer support to help technicians and businesses find the right
-      solution quickly and efficiently.
-    </p>
-  </div>
+          <p>
+            We bring together trusted brands, quality components and dependable
+            customer support to help technicians and businesses find the right
+            solution quickly and efficiently.
+          </p>
+        </div>
 
-  <div className="trust-grid">
-    <div className="trust-item">
-      <h3>Trusted Brands</h3>
-      <p>Products sourced from reliable global manufacturers.</p>
-    </div>
+        <div className="trust-grid">
+          <div className="trust-item">
+            <h3>Trusted Brands</h3>
+            <p>Products sourced from reliable global manufacturers.</p>
+          </div>
 
-    <div className="trust-item">
-      <h3>Premium Quality</h3>
-      <p>Durable components designed for long-term performance.</p>
-    </div>
+          <div className="trust-item">
+            <h3>Premium Quality</h3>
+            <p>Durable components designed for long-term performance.</p>
+          </div>
 
-    <div className="trust-item">
-      <h3>Wide Product Range</h3>
-      <p>AC parts, refrigeration parts, oils, gases and more.</p>
-    </div>
+          <div className="trust-item">
+            <h3>Wide Product Range</h3>
+            <p>AC parts, refrigeration parts, oils, gases and more.</p>
+          </div>
 
-    <div className="trust-item">
-      <h3>Customer Support</h3>
-      <p>Friendly service and assistance for every requirement.</p>
-    </div>
-  </div>
-</section>
+          <div className="trust-item">
+            <h3>Customer Support</h3>
+            <p>Friendly service and assistance for every requirement.</p>
+          </div>
+        </div>
+      </section>
 
     </main>
   );

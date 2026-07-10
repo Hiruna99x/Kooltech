@@ -4,29 +4,25 @@ import Link from "next/link";
 import styles from "./page.module.css";
 
 const categoryDetails: Record<string, { icon: string; description: string }> = {
-  "AC Parts": {
-    icon: "❄️",
-    description: "Essential spare parts for AC servicing, maintenance and repairs.",
+  Compressor: {
+    icon: "⚙️",
+    description: "Reliable compressors for AC and refrigeration applications.",
   },
   "AC Gas": {
     icon: "🧊",
     description: "Quality refrigerant gases for cooling and HVAC systems.",
   },
-  "AC Oil": {
+  Oil: {
     icon: "🛢️",
     description: "Premium refrigeration oils for smooth compressor performance.",
   },
-  Compressors: {
-    icon: "⚙️",
-    description: "Reliable compressors for AC and refrigeration applications.",
-  },
-  "Refrigeration Parts": {
-    icon: "🌡️",
-    description: "Components for commercial and domestic refrigeration systems.",
-  },
-  "Washing Machine Parts": {
+  Motors: {
     icon: "🌀",
-    description: "Durable replacement parts for washing machine repairs.",
+    description: "Durable replacement motors for AC and appliance repairs.",
+  },
+  "Other Products": {
+    icon: "🔧",
+    description: "Additional spare parts and components for HVAC and appliances.",
   },
 };
 

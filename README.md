@@ -23,7 +23,7 @@ npm run dev
 - No sidebar; top navigation on all pages
 - Consistent header and footer
 - Home: Hero carousel, short About section, Categories preview, Brands grid, CTAs
-- Products: Filter tabs (All, AC Parts, AC Gas, AC Oil, Compressors, Refrigeration Parts, Washing Machine Parts) and product grid cards (image + name)
+- Products: Filter tabs (All, Compressor, AC Gas, Oil, Motors, Other Products) and product grid cards (image + name)
 - About and Contact pages
 - Mobile-first and fully responsive
 - Smooth transitions and subtle animations
