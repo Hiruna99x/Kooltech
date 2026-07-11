@@ -44,7 +44,7 @@ export default function AboutPage() {
           <h2>Why Choose Us</h2>
           <p>
             We work with trusted brands and focus on product availability,
-            dependable quality, and customer-first support.
+            dependable quality, and customer first support.
           </p>
         </div>
       </section>
