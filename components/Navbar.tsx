@@ -20,8 +20,8 @@ export default function Navbar() {
       <nav className="navbar">
         <div className="navbar-inner">
           <Link href="/" className="nav-logo" onClick={() => setOpen(false)}>
-            <span className="logo-white">Kool</span>
-            <span className="logo-blue">Tech</span>
+            <span className="logo-white">Ever</span>
+            <span className="logo-blue">Cool</span>
           </Link>
 
           <button

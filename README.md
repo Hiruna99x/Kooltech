@@ -1,6 +1,6 @@
-# KoolTech — Portfolio UI (Next.js + Tailwind CSS)
+# Ever Cool — Portfolio UI (Next.js + Tailwind CSS)
 
-A modern, dark-themed, responsive portfolio website for KoolTech (HVAC & Appliance Spare Parts). Built with Next.js App Router and Tailwind CSS. Frontend only, no backend.
+A modern, dark-themed, responsive portfolio website for Ever Cool (HVAC & Appliance Spare Parts). Built with Next.js App Router and Tailwind CSS. Frontend only, no backend.
 
 ## Getting Started
 

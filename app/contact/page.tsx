@@ -2,7 +2,7 @@ import ContactForm from "@/components/ContactForm";
 import "./Contact.css";
 
 export const metadata = {
-  title: "Contact — KoolTech",
+  title: "Contact — Ever Cool",
 };
 
 export default function ContactPage() {
@@ -25,7 +25,7 @@ export default function ContactPage() {
           <h2>Visit Our Store</h2>
 
           <p className="info-text">
-            Visit KoolTech for reliable spare
+            Visit Ever Cool for reliable spare
             parts from trusted brands.
           </p>
 
@@ -33,9 +33,9 @@ export default function ContactPage() {
             <div className="info-item">
               <div>
                 <h4>Address</h4>
-                <p>Kooltech Electricals, 18B Cross St, Kandy 20000</p>
+                <p>Ever Cool, 396 Kumarathunga Mw, Matara</p>
                 <a
-                  href="https://www.google.com/maps/search/?api=1&query=Kooltech+Electricals,+18B+Cross+St,+Kandy+20000"
+                  href="https://www.google.com/maps/search/?api=1&query=Ever+Cool,+396+Kumarathunga+Mw,+Matara"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="map-link"
@@ -48,7 +48,7 @@ export default function ContactPage() {
             <div className="info-item">
               <div>
                 <h4>Phone</h4>
-                <a href="tel:0812228666">0812 228 666</a>
+                <a href="tel:0412229733">0412 229 733</a>
               </div>
             </div>
 
@@ -63,8 +63,8 @@ export default function ContactPage() {
 
           <div className="map-card">
             <iframe
-              title="KoolTech Electricals Location"
-              src="https://www.google.com/maps?q=Kooltech+Electricals,+18B+Cross+St,+Kandy+20000&output=embed"
+              title="Ever Cool Location"
+              src="https://www.google.com/maps?q=Ever+Cool,+396+Kumarathunga+Mw,+Matara&output=embed"
               width="100%"
               height="180"
               style={{ border: 0 }}

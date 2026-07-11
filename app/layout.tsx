@@ -19,7 +19,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "KoolTech | AC Parts & Refrigeration Components",
+  title: "Ever Cool | AC Parts & Refrigeration Components",
   description:
     "Premium HVAC spare parts, refrigerants, compressors and appliance components.",
 };

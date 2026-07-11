@@ -13,8 +13,8 @@ export default function Footer() {
             {/* Company Info */}
             <div>
               <div className="footer-logo">
-                <span className="footer-logo-white">Kool</span>
-                <span className="footer-logo-blue">Tech</span>
+                <span className="footer-logo-white">Ever</span>
+                <span className="footer-logo-blue">Cool</span>
               </div>
 
               <p className="footer-description">
@@ -56,18 +56,18 @@ export default function Footer() {
                   <p className="footer-label">Address</p>
 
                   <a
-                    href="https://www.google.com/maps/search/?api=1&query=Kooltech+Electricals,+18B+Cross+St,+Kandy+20000"
+                    href="https://www.google.com/maps/search/?api=1&query=Ever+Cool,+396+Kumarathunga+Mw,+Matara"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Kooltech Electricals, 18B Cross St, Kandy 20000
+                    Ever Cool, 396 Kumarathunga Mw, Matara
                   </a>
                 </div>
 
                 <div>
                   <p className="footer-label">Phone</p>
 
-                  <a href="tel:0812228666">0812 228 666</a>
+                  <a href="tel:0412229733">0412 229 733</a>
                 </div>
               </div>
             </div>
@@ -77,7 +77,7 @@ export default function Footer() {
         <div className="footer-bottom">
           <div className="section footer-bottom-inner">
             <p>
-              © {new Date().getFullYear()} KoolTech. All Rights Reserved.
+              © {new Date().getFullYear()} Ever Cool. All Rights Reserved.
             </p>
 
             <p>Premium HVAC & Refrigeration Components</p>

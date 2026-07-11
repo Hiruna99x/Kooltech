@@ -1,7 +1,7 @@
 import "./About.css";
 
 export const metadata = {
-  title: "About — KoolTech",
+  title: "About — Ever Cool",
 };
 
 export default function AboutPage() {
@@ -11,11 +11,11 @@ export default function AboutPage() {
 
         <h1>
           Reliable <span> HVAC & Refrigeration Parts</span> Supplier in{" "}
-          <span>Kandy</span>
+          <span>Matara</span>
         </h1>
 
         <p>
-          KoolTech supplies premium AC parts, compressors, refrigerants,
+          Ever Cool supplies premium AC parts, compressors, refrigerants,
           refrigeration components, AC oils, and washing machine parts from
           trusted brands. Our focus is quality, reliability, and responsive
           service for technicians, businesses, and service providers.
@@ -35,7 +35,7 @@ export default function AboutPage() {
         <div className="about-card">
           <h2>What We Provide</h2>
           <p>
-            From compressors and refrigerants to appliance spares, KoolTech
+            From compressors and refrigerants to appliance spares, Ever Cool
             brings essential cooling components under one roof.
           </p>
         </div>
